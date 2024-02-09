@@ -1,3 +1,6 @@
+#Zadania z Zestawu jedenastego ze zbioru zadań podstaw programowania w pythonie.
+#Temat: Klasy
+
 #Zadanie 1
 class punkt:
     __x = 0
